@@ -27,7 +27,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Checkers IRL TUM: Q-Learning Branch</h3>
 
   <p align="center">
     project_description
@@ -74,7 +74,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Checkers IRL TUM: Q-Learning Branch
+## About the Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
